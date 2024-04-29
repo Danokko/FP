@@ -1,6 +1,6 @@
 import requests
 
-class CurrencyConverter:
+class CurrencyConverter: #jfthithjithji
     def __init__(self, base_currency='USD'):
         self.base_currency = base_currency
         self.rates = {}
